@@ -2,7 +2,7 @@ var friendsArray = [
     {
         routeName: "ahmed",
         name:"Ahmed",
-        photo:"https://media.licdn.com/mpr/mpr/shrinknp_400_400/p/6/005/064/1bd/3435aa3.jpg",
+        photo:"https://www.anl.gov/sites/www/files/styles/profile_teaser_square_350px/public/professional%20_pic.jpg",
         scores:[
             5,
             1,
